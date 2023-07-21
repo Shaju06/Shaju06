@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Reactjs or nodejs projects**
 
-- 💬 Ask me about **reactjs, nodejs and MySQL database**
+- 💬 Ask me about **reactjs, nodejs and MongoDb database**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
