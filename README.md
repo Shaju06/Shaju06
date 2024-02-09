@@ -1,26 +1,22 @@
-<h1 align="center">Hi 👋, I'm Varinder Pal Singh</h1>
-<h3 align="center">A passionate Full-stack developer.</h3>
+# Hello, I'm Varinder Pal Singh 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaju06&label=Profile%20views&color=0e75b6&style=flat" alt="shaju06" /> </p>
+I'm a passionate software engineer with a strong foundation in JavaScript, specializing in React.js, Next.js, Node.js, and also proficient in Python. I love building scalable and efficient web applications that solve real-world problems. 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Nextjs project for current orgnization**
-
-- 🌱 I’m currently learning **more on databases**
-
-- 👯 I’m looking to collaborate on **Reactjs or nodejs projects**
-
-- 💬 Ask me about **reactjs, nodejs and MongoDb database**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/varinder-pal-singh-4896b743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varinder-pal-singh-4896b743" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaju06&show_icons=true&locale=en&layout=compact" alt="shaju06" /></p>
+## 🔧 Technologies & Tools
+- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) ![Python](https://img.shields.io/badge/-Python-black?logo=python)
+- **Frontend:** ![React](https://img.shields.io/badge/-React.js-black?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3) ![Sass](https://img.shields.io/badge/-Sass-black?logo=sass)
+- **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black)
+- **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql)
+- **Tools & Others:** ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github) ![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visual-studio-code) ![npm](https://img.shields.io/badge/-npm-black?logo=npm) ![Yarn](https://img.shields.io/badge/-Yarn-black?logo=yarn) ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 
 
+## 🌱 Currently Learning
+I'm always eager to expand my skill set and stay updated with the latest technologies. Currently, I'm focusing on mastering [mention any technology or skill you're currently learning].
+
+## 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/varinder-pal-singh-4896b743/)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourusername](https://twitter.com/Varinder_PS6))
+
+
+
+Feel free to reach out to collaborate on any interesting projects or just to say hi!
