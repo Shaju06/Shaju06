@@ -14,8 +14,8 @@ I'm a passionate software engineer with a strong foundation in JavaScript, speci
 I'm always eager to expand my skill set and stay updated with the latest technologies. Currently, I'm focusing on mastering [mention any technology or skill you're currently learning].
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/varinder-pal-singh-4896b743/)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourusername](https://twitter.com/Varinder_PS6))
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/varinder-pal-singh-4896b743/)
+- **Twitter:** [Twitter](https://twitter.com/yourusername](https://twitter.com/Varinder_PS6))
 
 
 
