@@ -11,7 +11,7 @@ I'm a passionate software engineer with a strong foundation in JavaScript, speci
 
 
 ## 🌱 Currently Learning
-I'm always eager to expand my skill set and stay updated with the latest technologies. Currently, I'm focusing on mastering [mention any technology or skill you're currently learning].
+I'm always eager to expand my skill set and stay updated with the latest technologies. Currently, I'm focusing on golang and it's framework for web-dev.
 
 ## 📫 Let's Connect
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/varinder-pal-singh-4896b743/)
