@@ -22,4 +22,4 @@ I'm always eager to expand my skill set and stay updated with the latest technol
 Feel free to reach out to collaborate on any interesting projects or just to say hi!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Shaju06&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shaju06&show_icons=true&theme=radical)<br/>
