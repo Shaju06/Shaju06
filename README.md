@@ -1,4 +1,4 @@
-# Varinder Pal Singh
+# Hi there, I'm Varinder Pal Singh
 
 I'm a passionate software engineer with a strong foundation in JavaScript, specializing in React.js, Next.js, Node.js, and also proficient in Python. I love building scalable and efficient web applications that solve real-world problems. 
 
